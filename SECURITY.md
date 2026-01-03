@@ -1,13 +1,13 @@
 # Security Policy
 
-## 🔐 Scope
+## Scope
 This repository is a **cybersecurity learning and portfolio project**. All content is created for educational purposes and is intended to demonstrate secure practices, tooling familiarity, and documentation skills.
 
 All activities, labs, and examples in this repository are performed in **controlled, isolated environments** that I own or have explicit permission to test.
 
 ---
 
-## 🚫 Sensitive Information
+## Sensitive Information
 This repository **must not** contain:
 - Passwords, API keys, tokens, or secrets
 - Private keys or certificates
@@ -19,7 +19,7 @@ Any sensitive values shown in documentation are **sanitized, redacted, or simula
 
 ---
 
-## 🧪 Responsible Use Disclaimer
+## Responsible Use Disclaimer
 The tools, techniques, and concepts documented here are for:
 - Defensive security learning
 - Understanding how vulnerabilities are identified
@@ -30,7 +30,7 @@ Do not apply these techniques to systems you do not own or have permission to te
 
 ---
 
-## 🐞 Reporting Security Issues
+## Reporting Security Issues
 If you believe you’ve found:
 - Accidentally committed sensitive data
 - A security concern within this repository
@@ -44,11 +44,11 @@ Issues will be reviewed and remediated promptly.
 
 ---
 
-## 🔄 Continuous Improvement
+## Continuous Improvement
 This repository is actively maintained and updated as my skills grow.  
 Security practices, documentation standards, and safeguards will evolve over time to reflect industry best practices.
 
 ---
 
-## 📌 Acknowledgment
+## Acknowledgment
 By using or referencing this repository, you acknowledge that all materials are provided **for educational purposes only** and without warranty.
