@@ -1,13 +1,13 @@
 # Cybersecurity Portfolio
 
-## 👋 Overview
+## Overview
 This repository documents my transition into cybersecurity through hands-on labs, home lab projects, and practical security exercises. It showcases foundational security skills, real-world tooling, and clear documentation of what I’ve built and learned.
 
 My focus is on **practical understanding**, **clear communication**, and **continuous improvement**—the same skills required in an entry-level cybersecurity role.
 
 ---
 
-## 🎯 Goals
+## Goals
 - Build and document real cybersecurity projects
 - Develop hands-on experience with industry-standard tools
 - Demonstrate problem-solving and security thinking
@@ -15,14 +15,14 @@ My focus is on **practical understanding**, **clear communication**, and **conti
 
 ---
 
-## 🧪 Projects & Labs
+## Projects & Labs
 
-### 🔐 Home Lab
+### Home Lab
 - Kali Linux virtual machine setup
 - Isolated testing environment for security tools
 - Network configuration and documentation
 
-### 🛠️ Security Labs
+### Security Labs
 - Network scanning and reconnaissance
 - Vulnerability identification and analysis
 - Password and authentication testing (controlled lab environment)
@@ -36,7 +36,7 @@ Each project includes:
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - Kali Linux
 - VirtualBox / VMware
 - Nmap
@@ -47,7 +47,7 @@ Each project includes:
 
 ---
 
-## 📚 Certifications & Learning
+## Certifications & Learning
 - Self-directed cybersecurity study
 - Lab-based learning and documentation
 - Continuous skill development through practice
@@ -56,7 +56,7 @@ Each project includes:
 
 ---
 
-## 📈 What This Portfolio Demonstrates
+## What This Portfolio Demonstrates
 - Ability to learn technical concepts independently
 - Hands-on experience, not just theory
 - Clear written communication of technical work
@@ -65,7 +65,7 @@ Each project includes:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 - Expand home lab with additional systems
 - Add blue team / defensive security labs
 - Include incident response and log analysis projects
@@ -73,7 +73,7 @@ Each project includes:
 
 ---
 
-## 📫 Contact
+## Contact
 If you’re a recruiter or hiring manager and have questions about this portfolio, feel free to reach out via LinkedIn or GitHub.
 
 Thanks for visiting!
