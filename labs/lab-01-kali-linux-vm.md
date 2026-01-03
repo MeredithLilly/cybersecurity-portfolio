@@ -36,7 +36,7 @@ This lab demonstrates installing and configuring Kali Linux safely, preparing fo
   - RAM: 2–4 GB (or more if available)  
   - Disk: 20 GB dynamically allocated  
 
-*Figure 1: Creating a Kali Linux virtual machine in VirtualBox.*
+*Figure 1: Creating a Kali Linux virtual machine in VirtualBox.* (see cybersecurity-portfolio/labs/Screenshots/Lab-01 for screenshots)
 
 ---
 
@@ -47,7 +47,7 @@ This lab demonstrates installing and configuring Kali Linux safely, preparing fo
 - Use default partitioning unless customization is required  
 
 
-*Figure 2: Completing the Kali Linux installation.*
+*Figure 2: Completing the Kali Linux installation.* (see cybersecurity-portfolio/labs/Screenshots/Lab-01 for screenshots)
 
 ---
 
