@@ -77,3 +77,6 @@ Each project includes:
 If you’re a recruiter or hiring manager and have questions about this portfolio, feel free to reach out via LinkedIn or GitHub.
 
 Thanks for visiting!
+
+
+Disclaimer: All projects in this repository were performed in controlled lab environments that I own or have permission to test. No real-world systems or sensitive data are included.
